@@ -11,7 +11,6 @@
         'existing historical entries in Replace or Merge mode.'
     ),
     'author': 'Mohamed Maati',
-    'website': 'https://github.com/Infiniarc99/vet_pharmacy',
     'depends': ['point_of_sale', 'account', 'analytic'],
     'data': [
         'security/ir.model.access.csv',
